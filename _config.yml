@@ -1,1 +1,14 @@
+title: Fractile Development
+description: Blockchain solutions
+logo: logo.png
+show_downloads: false
+repository_url: false
+zip_url: false
+demo_url: false
 theme: jekyll-theme-cayman
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jekyll-mentions
+ - jekyll-include-cache
